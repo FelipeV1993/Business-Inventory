@@ -16,9 +16,7 @@ export const NavbarLogin = () => {
     if(msg=="Inicio de sesión exitoso." || msg=="Inicio de Sesión como Admin exitoso."){console.log("te logeaste bien tienes permitido seguir")}
     else{window.location.href="http://localhost:3000/"  }
   }
-  function goHome(){
-    window.location.href="http://localhost:3000/"
-  }
+  
   React.useEffect(()=>{
     /* securityLogin(store.msg) */
   },[])

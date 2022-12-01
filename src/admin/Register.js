@@ -76,7 +76,7 @@ function Register() {
           <CssBaseline />
           <Grid
             item
-            xs={false}
+            xs={12}
             sm={12}
             sx={{
               backgroundImage: `url(${Fondo})`,

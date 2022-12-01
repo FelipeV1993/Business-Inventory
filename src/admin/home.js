@@ -540,7 +540,7 @@ export default function Crud() {
     }
     // here loader for user;
     const response = addRequest(
-      "https://api-project-business-inventory.herokuapp.com/api/admin/users"
+      "https://api-project-business-inventory.herokuapp.com/api/users"
     );
     console.log("AQUII RESPONSE", response);
     if (!response) {

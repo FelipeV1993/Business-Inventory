@@ -25,3 +25,20 @@ problemas pal tomako de mañana
 listo 1 arreglar modal en formato movil de admin del botton activar desactivar
 listo 2 que password se pueda mostrar y ocultar en la vista de login inicial 
 3 arreglar problema de que en vista usuario home la carta en venta puede ser mayor que el stock
+
+slice 1 sussan
+slice 2 rodrigo -pato-felipe-sussan
+slice3 sussan
+slice 4 sussan
+slice 5 felipe
+Las tecnologías utilizadas para el desarrollo de esta app son: React, Python,
+Javascript,  Flask, SQLAlchemy, CSS, Material UI y boostrap. 
+Antes de comenzar conversamos sobre las áreas en donde nos encontrábamos
+más confiados para trabajar cada uno, con esa información por delante decidimos las areas a las que cada uno se dedicaria y comenzamos la contruccion del proyecto en base a las vistas que necesitaríamos y como tendria que estar formada la arquitectura de los archivos y carpeta y posteriormente asignamos los roles de cada uno junto con sus trabajos, esto lo logramos tambien teniendo reuniones diarias y una gran comunicacion entre los mienbros del equipo, ya que junto a las reuniones cada ciertas horas dabamos un tiempo para mostrar los avances realizados y si alguien terminaba sus tareas este podria apollar a quienes tenian dificultades o presentaban estancamiento, junto con reuniones de diseño y de uso de usuario nos permitio crear la aplicacion lo bastante simple facil de entender y verse llamativa sin ser sobresaturada, estas reuniones en conjunto y muestras de avances fueron super importantes para mantener un buen flujo en el trabajo del equipo
+slice 6 pato
+slice 7 rodrigo video 
+slice 8 pato
+slice 9 pato-felipe-rodrigo-susan
+
+
+slice 5

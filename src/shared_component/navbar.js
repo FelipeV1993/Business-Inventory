@@ -14,9 +14,7 @@ export const Navbar = () => {
     if(msg=="Inicio de sesión exitoso." || msg=="Inicio de Sesión como Admin exitoso."){console.log("te logeaste bien tienes permitido seguir")}
     else{window.location.href="http://localhost:3000/"  }
   }
-  function goHome(){
-    window.location.href="http://localhost:3000/"
-  }
+  
   React.useEffect(()=>{
     /* securityLogin(store.msg) */
   },[])   
@@ -97,13 +95,15 @@ export const Navbar = () => {
         </button>
       </form> */}
     </div>
-    <i className="off fa-solid fa-power-off" style={{display:"block", marginLeft:10}} onClick={goHome} 
+    <Link className="navbar-brand text-light" to="/">
+    <i className="off fa-solid fa-power-off" style={{display:"block", marginLeft:10}}  
       type="button"
       data-bs-toggle="collapse"
       data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent"
       aria-expanded="false"
       aria-label="Toggle navigation"/>
+  </Link>
   </div>
 </nav>
 
